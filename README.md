@@ -7,6 +7,7 @@ Para el desarrollo de nuestro proyecto usamos una placa Arduino UNO, el IDE de A
 #### Componentes físicos:
 ```
 Placa Arduino UNO
+C++
 ```
 #### Para el detector de somnolencia:
 ```
