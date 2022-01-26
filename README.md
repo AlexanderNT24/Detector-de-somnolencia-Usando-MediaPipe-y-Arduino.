@@ -4,9 +4,8 @@ Nuestro proyecto crea una comunicación entre python y arduino, con la finalidad
 ## Sobre El Proyecto
 Para el desarrollo de nuestro proyecto usamos una placa Arduino UNO, el IDE de Arduino y Visual Studio Code para la programación del detector de somnolencia.
 ### El proyecto hace uso de las siguentes tecnologías.
-#### Componentes físicos:
+#### Para Arduino UNO:
 ```
-Placa Arduino UNO
 C++
 ```
 #### Para el detector de somnolencia:
