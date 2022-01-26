@@ -14,3 +14,8 @@ Python
 Mediapipe
 OpenCV
 ```
+#### Para la comunicación entre Python y Arduino:
+```
+Threading
+Pyserial
+```
