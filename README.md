@@ -19,3 +19,6 @@ OpenCV
 Threading
 Pyserial
 ```
+### Uso
+https://user-images.githubusercontent.com/89727568/151181256-ad33e71b-ce66-44e1-a59a-3f42e1a2ef1b.mp4
+
